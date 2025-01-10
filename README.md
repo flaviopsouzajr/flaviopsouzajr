@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Flavio and I have Bachelor degree in Information Systems, I am currently living in Barueri-SP. I like programing and my goal is to create awesome websites and applications that solve real world problems. Currently, I am looking for an opportunity as Junior Front-end developer.
+
 <!--
 **flaviopsouzajr/flaviopsouzajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
