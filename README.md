@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Flavio and I have Bachelor degree in Information Systems, I am currently living in Barueri-SP. I like programing and my goal is to create awesome websites and applications that solve real world problems. Currently, I am looking for an opportunity as Junior Front-end developer.
+My name is Flavio and I have Bachelor degree in Information Systems, I am currently living in Barueri-SP. I like programing and my goal is to create awesome websites and applications that solve real world problems and enhance the user experience. Currently, I am looking for an opportunity as Junior Front-end developer.
 
 ## Here's some of the stuff I like to use
 
